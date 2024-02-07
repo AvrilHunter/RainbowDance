@@ -1,3 +1,5 @@
 This is going to be a RainbowDance Repo on Github!
 
 This is the second document though - I will add changes seperately
+
+Change is being made on github!
